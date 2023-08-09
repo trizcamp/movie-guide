@@ -13,5 +13,4 @@ minha primeira vez usando uma API externa
 <a href="https://www.omdbapi.com">clique aqui!</a>
 
 ## Rede Social
-[instagram](https://www.instagram.com/trizzcamp/)
-email: bia.felix.campachi@gmail.com
+[instagram](https://www.instagram.com/trizzcamp/) | email: bia.felix.campachi@gmail.com
