@@ -14,4 +14,4 @@ minha primeira vez usando uma API externa
 
 ## Rede Social
 [instagram](https://www.instagram.com/trizzcamp/) <br>
-[gmail]bia.felix.campachi@gmail.com
+email: bia.felix.campachi@gmail.com
