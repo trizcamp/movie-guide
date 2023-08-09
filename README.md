@@ -1,5 +1,6 @@
 # Aplicação de guia para filmes
 minha primeira vez usando uma API externa
+<br>
 HTML | CSS | JS
  <p align:center>
     <img src="movieguideshot.png" width:50% alt="aplicação">
